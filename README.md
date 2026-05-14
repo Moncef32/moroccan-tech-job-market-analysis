@@ -178,7 +178,7 @@ MIT — feel free to fork, adapt, and build on this work.
 
 **Moncef El Alami**
 📍 Tetouan, Morocco
-💼 [LinkedIn](https://linkedin.com/in/your-handle)
-📧 your.email@example.com
+💼 [LinkedIn](https://www.linkedin.com/in/moncef2704/)
+📧 xxmoncefxx32@gmail.com
 
 If you're a recruiter, hiring manager, or fellow analyst — I'd love to hear what you'd want to see added or improved.
